@@ -27,6 +27,7 @@ src/main/resources/database.properties
 
 client/node_modules/
 
+Chess.iml
 .idea
 .classpath
 .project
